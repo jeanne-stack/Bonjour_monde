@@ -1,0 +1,16 @@
+---
+title: "Bonjour"
+author: "Jeanne MEDENOU"
+date: '2024-12-06'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+print("Hello word! Ceci est mon premier code")
+```
+
